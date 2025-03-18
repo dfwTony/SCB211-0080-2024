@@ -1,5 +1,5 @@
 # SCB211-0080-2024
-Tony's portfolio
+#Tony's portfolio
 # Personal Portfolio Website
 
 ## Overview
@@ -8,8 +8,8 @@ This is my personal portfolio website, designed to showcase my skills, personali
 ## Pages
 1. *Landing Page (Home):* Introduction and navigation links.
 2. *About Page:* Biography, skills, and fun facts about me.
-3. *menu Page 1:* Ugali with Sukuma Wiki.
-4. *menu Page 2:* (Second favorite recipe).
+3. *menu Page 1:* Cabbage with Ugali, served with Avocado.
+4. *menu Page 2:* Wet fry chicken with chapati's.
 
 ## How to View the Project
 - Open the index.html file in your web browser.
@@ -21,6 +21,7 @@ This is my personal portfolio website, designed to showcase my skills, personali
 - *Clean Navigation:* Intuitive navigation menu for smooth browsing.
 - *Consistency:* Unified styling and layout across all pages.
 - *Recipes:* Detailed pages featuring my favorite meals, complete with images and instructions.
+
 ## 📷 Images Used
 - Hero image on Landing Page.
 - Profile photo on About Page.
