@@ -15,6 +15,10 @@ This is my personal portfolio website, designed to showcase my skills, personali
 - Open the index.html file in your web browser.
 - navigate through the about.html,menu1.html and menu2.html page.
 
+## links
+- [DeepSeek](https://www.deepseek.com/)
+-[Copilot](https://copilot.microsoft.com/)
+-[ChatGPT](https://chatgpt.com/)
 
 ## 🌟 Features
 - *Responsive Design:* Looks great on both desktop and mobile devices.
