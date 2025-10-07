@@ -6,7 +6,8 @@ body {
     color: white;
     text-align: left;
 }
-.images{height: 250px; width: 250px
+.images{height: 250px; 
+        width: 250px
 }
 
 #p1{color: red;
@@ -51,4 +52,5 @@ footer {
 }
 .fa-youtube{color: red
 }
+
 .fa-envelope{color: #D2B48C}
